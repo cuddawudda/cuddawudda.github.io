@@ -1,3 +1,8 @@
+---		 
+ layout: post		
+ title: beef-koftas-with-herb-couscous		
+---
+
 ## INGREDIENTS
 
   * 500g British beef mince (see tip)
