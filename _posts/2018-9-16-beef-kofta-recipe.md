@@ -1,6 +1,7 @@
 ---		 
  layout: post		
- title: beef-koftas-with-herb-couscous		
+ title: beef-koftas-with-herb
+
 ---
 
 ## INGREDIENTS
